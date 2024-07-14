@@ -1,5 +1,5 @@
 # dotnet-saga-pattern-rabbitmq
-Demonstração da utilização do RabbitMQ na implantação do padrão Saga para orquestrar ações e assegurar a integridade destas.
+Demonstração da utilização do RabbitMQ na implementação do padrão Saga para orquestração de ações e garantia da integridade em uma aplicação.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
